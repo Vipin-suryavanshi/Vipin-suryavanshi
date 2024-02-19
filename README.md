@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
-<h1 align="center">Hello, I'm Vipin !</h1>
+<h1 align="center">Hello, I'm Vipin Suryavanshi !</h1>
 <h3 align="center">Collaborate, create, and code with me on Github !</h3>
 
 
@@ -11,10 +11,12 @@
   
   
 ### :technologist: About Me :
- I'm **Frontend Web Developer** currently learning  **React.js**
+ I'm **Frontend Web Developer** 
  <br>
                                                                                            
  Programming Languages: HTML5 , CSS3 , BOOTSTRAP ,JAVASCRIPT C,C++,Pyhton,JAVA  <br>
+ Framework/library : Reactjs,Redux,Sass <br>
+ DataBase : MySQl<br>
                                                                                            🌐 Languages : English,Hindi
                                                                                            <HR>
                                                                                            
